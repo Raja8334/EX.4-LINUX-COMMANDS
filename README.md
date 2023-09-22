@@ -40,10 +40,38 @@ To study and execute some Linux commands in terminal.
 ```
 # OUTPUT5
 ![image](https://github.com/Raja8334/EX.4-LINUX-COMMANDS/assets/120719634/abb17c3a-a041-459e-a59c-1b7c8ccf24b3)
-    
+# COMMAND6:
+ ```
+ rm - to remove a file
+ ```
+# OUTPUT6:
+![image](https://github.com/Raja8334/EX.4-LINUX-COMMANDS/assets/120719634/86278f1b-0a80-4e66-af5a-bdb6659d50d0)
+# COMMAND7:
+ ```
+ ping - check the connectivity between two nodes
+```
+# OUTPUT7:
+![image](https://github.com/Raja8334/EX.4-LINUX-COMMANDS/assets/120719634/cff991f0-bed8-4531-bc39-4b8ed7f4eef2)
+# COMMAND8:
+  ```
+ host - display the IP address for a given domain name and vice versa
+```
+# OUTPUT8:
+![image](https://github.com/Raja8334/EX.4-LINUX-COMMANDS/assets/120719634/c3cd96c8-6aa8-44d2-9a9a-b7ee58bf452e)
+# COMMAND9:
+ ```
+ whoami - Get the active username
+```
+# OUTPUT9:
+![image](https://github.com/Raja8334/EX.4-LINUX-COMMANDS/assets/120719634/6edcd7f2-f188-4dee-ab03-27d83d288ac4)
 
 
-
+# COMMAND10:
+ ```
+ ps - Display active processes
+```
+# OUTPUT10:
+![image](https://github.com/Raja8334/EX.4-LINUX-COMMANDS/assets/120719634/c4be58b6-5158-4c8e-89f4-26461424695d)
 
 
 
